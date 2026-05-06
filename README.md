@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6C3483,100:1A5276&height=180&section=header&text=Vaibhav's%20Lab%20🧪&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Personal%20Experiments%20%7C%20Learning%20%7C%20Side%20Projects&descAlignY=58&descColor=d7bde2)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6C3483,100:1A5276&height=180&section=header&text=Vaibhav's%20Lab%20🧪&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Personal%20Experiments%20%7C%20Learning&descAlignY=58&descColor=d7bde2)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=A569BD&center=true&vCenter=true&width=700&lines=🧪+Where+ideas+get+tested+before+going+to+production;📚+Learning+in+public+%7C+Breaking+things+intentionally;🤖+AI+%7C+Data+Engineering+%7C+Cloud+Experiments;🔬+If+it+works+here%2C+it+ships+on+the+main+profile)](https://git.io/typing-svg)
 
