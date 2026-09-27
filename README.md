@@ -17,7 +17,7 @@
 > This is where I **think out loud in code.** No polish, no promises — just curiosity-driven experiments, learning projects, and ideas I'm road-testing before they graduate to the main profile.
 
 ```text
-🧪  Purpose     →  Personal experiments, Study, Learn
+🧪 Purpose     → Personal experiments, Not Just Demo, Study, Learn, Sharing
 🔗  Main Work   →  github.com/vaibhavpandeyava
 🌱  Currently   →  AI Engineering · Agentic AI patterns · New tooling
 ⚠️  Disclaimer  →  Things may break. That's the point.
